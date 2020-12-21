@@ -1,1 +1,20 @@
-Prova
+# Nome del software
+Ho pensato a "Metalwork Manager" perché è orecchiabile, ricorda "Football Manager" e ti fa sentire un campione mentre lo usi.
+
+# Architettura del software
+La discussione verte tra una struttura sortware orientata ai servizi web piuttosto che una "troppo-accademica-cosa-in-java": discussione aperta.
+
+# Tecnologie
+
+# Funzionalità
+Una lista doverosa.
+## Gestione del MAGAZZINO
+I prodotti vengono identificati a mezzo di un CODICE, non meglio specificato ma sembra abbia una struttura molto precisa. E' essenziale tenere traccia di una SCORTA DISPONIBILE.
+## Identificazione COMPONENTI
+Stampare e leggere codici a barre per indentificare, ricercare, aggiornare i PEZZI IN MAGAZZINO (forse uno spartphone potrebbe assolvere alla funzione di pistola-spara-codice-a-barre?)
+
+# Dizionario dei termini
+## MAGAZZINO
+Insieme dei COMPONENTI
+## COMPONENTE
+Gli artefatti prodotti dall'azienda, comunemente chiamati PEZZI.
